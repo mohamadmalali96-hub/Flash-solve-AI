@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">FlashSolve AI</string>
+    <string name="tagline">Sub-1.5s Floating Pill Screen Solver</string>
+    <string name="master_switch_title">Floating Pill Service</string>
+    <string name="master_switch_active">Overlay Active • Ready to Solve</string>
+    <string name="master_switch_stopped">Service Stopped • Tap to Start</string>
+    <string name="pill_mode_label">Pill State</string>
+    <string name="pill_state_active">ACTIVE</string>
+    <string name="pill_state_standby">STANDBY</string>
+    <string name="solve_button">Solve</string>
+    <string name="solving_status">Solving…</string>
+    <string name="api_key_section_title">Gemini Flash API Key</string>
+    <string name="api_key_hint">Enter Gemini API Key (or use AI Studio Secret)</string>
+    <string name="api_key_saved">API Key configured</string>
+    <string name="security_warning">Security Warning: Android APKs can be decompiled. Do not share APKs containing embedded API keys publicly.</string>
+    <string name="overlay_permission_title">System Overlay Permission</string>
+    <string name="overlay_permission_granted">Granted (WindowManager Active)</string>
+    <string name="overlay_permission_missing">Grant Draw Over Other Apps</string>
+    <string name="screen_capture_title">Screen Capture Engine</string>
+    <string name="screen_capture_ready">MediaProjection + Live Window Ready</string>
+    <string name="practice_arena_title">Live Screen Test Arena</string>
+    <string name="history_title">Recent Instant Solves</string>
+    <string name="notification_channel_name">FlashSolve Floating Pill</string>
+    <string name="notification_title">FlashSolve AI Pill Active</string>
+    <string name="notification_text">Tap Solve on the floating pill to analyze screen</string>
+</resources>

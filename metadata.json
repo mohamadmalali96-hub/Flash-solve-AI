@@ -1,0 +1,6 @@
+{
+  "name": "FlashSolve AI",
+  "description": "Ultra-fast floating pill screen solver powered by Gemini Flash REST API with Arabic and English UI support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

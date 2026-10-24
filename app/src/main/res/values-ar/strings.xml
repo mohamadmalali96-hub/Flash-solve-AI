@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">FlashSolve AI</string>
+    <string name="tagline">حل فوري للشاشة في أقل من 1.5 ثانية</string>
+    <string name="master_switch_title">خدمة الكبسولة العائمة</string>
+    <string name="master_switch_active">الكبسولة نشطة • جاهز للحل</string>
+    <string name="master_switch_stopped">الخدمة متوقفة • اضغط للتشغيل</string>
+    <string name="pill_mode_label">حالة الكبسولة</string>
+    <string name="pill_state_active">نشط</string>
+    <string name="pill_state_standby">انتظار</string>
+    <string name="solve_button">حل</string>
+    <string name="solving_status">جاري الحل…</string>
+    <string name="api_key_section_title">مفتاح Gemini Flash API</string>
+    <string name="api_key_hint">أدخل مفتاح Gemini API (أو استخدم مفتاح AI Studio)</string>
+    <string name="api_key_saved">تم حفظ مفتاح API</string>
+    <string name="security_warning">تحذير أمني: يمكن تفكيك ملفات APK بسهولة. لا تشارك ملف APK الذي يحتوي على مفاتيح API علنياً.</string>
+    <string name="overlay_permission_title">إذن الظهور فوق التطبيقات</string>
+    <string name="overlay_permission_granted">ممنوح (WindowManager نشط)</string>
+    <string name="overlay_permission_missing">منح إذن الظهور فوق التطبيقات</string>
+    <string name="screen_capture_title">محرك التقاط الشاشة</string>
+    <string name="screen_capture_ready">MediaProjection والتقاط النافذة جاهز</string>
+    <string name="practice_arena_title">ساحة الاختبار المباشر للشاشة</string>
+    <string name="history_title">سجل الحلول الفورية</string>
+    <string name="notification_channel_name">كبسولة FlashSolve العائمة</string>
+    <string name="notification_title">كبسولة FlashSolve AI نشطة</string>
+    <string name="notification_text">اضغط على زر حل في الكبسولة العائمة لتحليل الشاشة</string>
+</resources>
